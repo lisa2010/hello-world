@@ -14,10 +14,10 @@ class someclass:
  ```
 ### to-do list
 - [x] the project A have done
-  -[X]the issue A have done
-  -[x]the issue B have done
- -[ ]the issue C to do
- -[ ]the issue D to do 
+  - [X]the issue A have done
+  - [x]the issue B have done
+- [ ]the issue C to do
+- [ ]the issue D to do 
 
 ### graph
 ```
@@ -27,3 +27,4 @@ graph TD
     C-->|one| D[laptop]
 	C-->|two| E[iphone]
 	C-->|three F[car]
+```
